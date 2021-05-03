@@ -1041,6 +1041,12 @@ header {
     font-size: 20px;
 }
 
+.navbar-brand {
+    font-size: 27px;
+    color: #000;
+    font-weight: 700;
+}
+
 .navbar .navbar-brand-sticky {
     display: none;
 }
